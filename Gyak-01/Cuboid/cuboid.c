@@ -32,4 +32,4 @@ void has_square(const Cuboid* cuboid){
     }else{
         printf("It does not have a square side.");
     }
-} 
+}
